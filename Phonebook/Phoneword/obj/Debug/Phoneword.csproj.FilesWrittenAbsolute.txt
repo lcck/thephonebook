@@ -1,0 +1,1 @@
+/Users/lck/Desktop/PhonewordMultiscreen/Phoneword/obj/Debug/MonoAndroid,Version=v5.0.AssemblyAttribute.cs
